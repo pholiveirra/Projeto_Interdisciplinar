@@ -1,3 +1,4 @@
+
 <?php
 
 class Usuario {
@@ -42,3 +43,4 @@ class Usuario {
         return $this->turno;
     }
 }
+?>
